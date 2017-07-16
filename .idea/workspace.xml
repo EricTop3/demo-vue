@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6abb4b01-05bb-47f9-96ba-a57b176ebedf" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.styl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/stylus/base.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/header/header.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="150" column="23" lean-forward="false" selection-start-line="150" selection-start-column="14" selection-end-line="150" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icon.styl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/stylus/icon.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.styl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/stylus/index.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mixin.styl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/stylus/mixin.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="decrease_4@2x.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/seller/decrease_4@2x.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <element signature="e#482#522#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/common/js/util.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EcmaScript.js" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>huangyi</find>
+      <find>clearfix</find>
+      <find>seller</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package-lock.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v0hivb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v0hivb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v0hivb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v0hivb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v0hivb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v0hivb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v0hivb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v0hivb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v0hivb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v0hivb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Administrator\Desktop\v0hivb\node_modules\eslint" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.11.0" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6abb4b01-05bb-47f9-96ba-a57b176ebedf" name="Default" comment="" />
+      <created>1500121519611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500121519611</updated>
+      <workItem from="1500121520866" duration="907000" />
+      <workItem from="1500168903244" duration="3309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4216000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18594436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2031496" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/dev-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-debug.log" />
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/dev-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500192229756" expanded="true" signature="158569:158575" ph="{&quot;version&quot;: &quot;1.0.4&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="158598:158793" ph="{&quot;version&quot;: &quot;2.5.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="158817:159014" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="159028:159205" ph="{&quot;version&quot;: &quot;0.7.2&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="159224:159411" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="159426:160614" ph="{&quot;version&quot;: &quot;3.8.3&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="159623:160608" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="159647:159856" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="159893:160128" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="160154:160367" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="160391:160600" ph="{&quot;version&quot;: &quot;4.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="160631:160816" ph="{&quot;version&quot;: &quot;0.1.10&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="160836:161025" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="161042:161206" ph="{&quot;version&quot;: &quot;2.3.8&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="161225:161393" ph="{&quot;version&quot;: &quot;4.0.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="161420:161623" ph="{&quot;version&quot;: &quot;2.0.2&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="161643:161832" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="161856:162053" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="162081:162286" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="162304:162489" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="162509:162698" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="162713:162892" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="162916:163113" ph="{&quot;version&quot;: &quot;0.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="163133:163322" ph="{&quot;version&quot;: &quot;0.3.2&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="163339:163524" ph="{&quot;version&quot;: &quot;1.6.15&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="163544:163733" ph="{&quot;version&quot;: &quot;0.0.6&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="163752:164498" ph="{&quot;version&quot;: &quot;3.0.25&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="164021:164492" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="164044:164251" ph="{&quot;version&quot;: &quot;2.9.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="164275:164484" ph="{&quot;version&quot;: &quot;0.5.6&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="164528:164737" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="164751:164928" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="164944:165125" ph="{&quot;version&quot;: &quot;4.1.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="165140:165319" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="165335:165516" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="165536:165725" ph="{&quot;version&quot;: &quot;1.1.3&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="165751:165952" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="165965:166401" ph="{&quot;version&quot;: &quot;0.11.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="166160:166395" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="166182:166387" ph="{&quot;version&quot;: &quot;1.3.2&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="166421:166943" ph="{&quot;version&quot;: &quot;0.5.9&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="166690:166937" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="166716:166929" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="166966:167142" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="167166:167344" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="167363:167550" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="167564:168002" ph="{&quot;version&quot;: &quot;0.10.3&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="167761:167996" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="167783:167988" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="168026:168223" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="168238:168417" ph="{&quot;version&quot;: &quot;0.4.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="168438:168629" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="168643:168820" ph="{&quot;version&quot;: &quot;1.1.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="168837:169020" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="169043:169238" ph="{&quot;version&quot;: &quot;0.0.4&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="169251:169409" ph="{&quot;version&quot;: &quot;1.0.28&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="169437:169642" ph="{&quot;version&quot;: &quot;1.3.3&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="169667:172124" ph="{&quot;version&quot;: &quot;1.2.4&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="169884:172118" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="169903:170104" ph="{&quot;version&quot;: &quot;0.2.10&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="170127:170630" ph="{&quot;version&quot;: &quot;3.4.28&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="170354:170620" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="170381:170608" ph="{&quot;version&quot;: &quot;2.8.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="170653:170860" ph="{&quot;version&quot;: &quot;2.9.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="170887:171102" ph="{&quot;version&quot;: &quot;2.1.7&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="171128:171341" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="171368:171583" ph="{&quot;version&quot;: &quot;4.1.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="171606:172110" ph="{&quot;version&quot;: &quot;2.6.4&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="171831:172100" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="171859:172088" ph="{&quot;version&quot;: &quot;0.5.6&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="172144:173112" ph="{&quot;version&quot;: &quot;8.7.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="172351:173106" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="172378:172593" ph="{&quot;version&quot;: &quot;4.1.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="172630:172865" ph="{&quot;version&quot;: &quot;1.3.3&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="172889:173098" ph="{&quot;version&quot;: &quot;0.5.6&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="173134:173308" ph="{&quot;version&quot;: &quot;1.3.4&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="173328:173500" ph="{&quot;version&quot;: &quot;0.7.13&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="173526:173727" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="173759:173972" ph="{&quot;version&quot;: &quot;1.1.5&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="173991:174428" ph="{&quot;version&quot;: &quot;0.2.9&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="174196:174422" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="174215:174414" ph="{&quot;version&quot;: &quot;0.9.2&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="174445:175872" ph="{&quot;version&quot;: &quot;1.15.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="174648:175866" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="174667:174866" ph="{&quot;version&quot;: &quot;3.3.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="174890:175099" ph="{&quot;version&quot;: &quot;0.5.6&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="175127:175344" ph="{&quot;version&quot;: &quot;3.2.3&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="175367:175858" ph="{&quot;version&quot;: &quot;2.7.5&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="175592:175848" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="175615:175836" ph="{&quot;version&quot;: &quot;0.2.10&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="175894:176087" ph="{&quot;version&quot;: &quot;0.6.9&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="176119:176596" ph="{&quot;version&quot;: &quot;1.11.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="176352:176590" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="176375:176582" ph="{&quot;version&quot;: &quot;0.4.1&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="176628:176905" ph="{&quot;version&quot;: &quot;2.18.2&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="176928:177123" ph="{&quot;version&quot;: &quot;0.8.4&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="177148:177612" ph="{&quot;version&quot;: &quot;0.1.5&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="177365:177606" ph="{...}" />
+            <marker date="1500192229756" expanded="true" signature="177389:177598" ph="{&quot;version&quot;: &quot;0.5.6&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="177626:177803" ph="{&quot;version&quot;: &quot;3.6.4&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="177824:178015" ph="{&quot;version&quot;: &quot;0.9.9&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="178036:178227" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+            <marker date="1500192229756" expanded="true" signature="178245:178430" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/stylus/base.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/header/header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="150" column="23" lean-forward="false" selection-start-line="150" selection-start-column="14" selection-end-line="150" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/stylus/icon.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/stylus/index.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/stylus/mixin.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/seller/decrease_4@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="e#482#522#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/js/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
